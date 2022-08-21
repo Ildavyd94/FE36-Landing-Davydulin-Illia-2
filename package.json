@@ -1,0 +1,26 @@
+{
+  "name": "project-2",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ildavyd94/FE36-Landing-Davydulin-Illia-2.git"
+  },
+  "author": "Illia Davydulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ildavyd94/FE36-Landing-Davydulin-Illia-2/issues"
+  },
+  "homepage": "https://github.com/Ildavyd94/FE36-Landing-Davydulin-Illia-2#readme",
+  "dependencies": {
+    "sass": "^1.54.5"
+  }
+}
